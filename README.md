@@ -36,6 +36,7 @@ Get 10% OFF GLM CODING PLAN：https://z.ai/subscribe?ic=8JVLJQFSKB
 ## Overview
 
 - OpenAI/Gemini/Claude compatible API endpoints for CLI models
+- **Cross-format translation**: Use Claude Code with OpenAI backends, or OpenAI clients with Claude backends ([guide](docs/claude-code-openai-guide.md))
 - OpenAI Codex support (GPT models) via OAuth login
 - Claude Code support via OAuth login
 - Qwen Code support via OAuth login
@@ -75,6 +76,10 @@ CLIProxyAPI includes integrated support for [Amp CLI](https://ampcode.com) and A
 - Security-first design with localhost-only management endpoints
 
 **→ [Complete Amp CLI Integration Guide](https://help.router-for.me/agent-client/amp-cli.html)**
+
+## Guides
+
+- **Claude Code with OpenAI backends**: [docs/claude-code-openai-guide.md](docs/claude-code-openai-guide.md)
 
 ## SDK Docs
 
